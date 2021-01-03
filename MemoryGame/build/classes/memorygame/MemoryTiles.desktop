@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Memory Tiles
+GenericName=Memory Tiles
+Comment=start Memory Game
+Categories=Game;
+Exec=java -jar /E:\New folder\SCS\Sem4\MemoryGame-master\MemoryGame-master\src\memorygame\Icon.png
+Terminal=false
+StartupNotify=false
+Type=Application
+Icon=/E:\New folder\SCS\Sem4\MemoryGame-master\MemoryGame-master\src\memorygame\Icon.png
+Name[en_US]=Memory Tiles
+Comment[en_US.UTF-8]=Play MemoryTiles game :)
